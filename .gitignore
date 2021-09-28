@@ -5,3 +5,7 @@ _site
 .idea
 Gemfile.lock
 vendor
+.vscode/settings.json
+.vscode/
+.DS_Store
+.liquidrc
